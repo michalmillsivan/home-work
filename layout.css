@@ -1,0 +1,62 @@
+.content{
+    margin-top: 50px !important;
+}
+
+.stick-line{
+    background-color: rgb(229, 0, 92);
+    width: 100%;
+    height: 47px;
+    color: #ffffff;
+    text-align: center;
+    font-size: x-large;
+    position: fixed;
+}
+
+.logo-5{
+    height: 85px;
+}
+#btns-and-logo{
+padding-left: 13px;
+padding-right: 13px;
+}
+
+.blk-btn{
+    height: 85px;
+    font-size: larger;
+    text-align: center;
+    background-color: pink;
+}
+#leftpic{
+    width: 100%;
+}
+
+.comercial img{
+    width: 100%!important;
+    
+}
+
+.aside{
+    position: fixed;
+    margin-top: 50px ;
+    right: 12px;
+}
+
+.comercial{
+    margin-top: 20px !important;
+   
+}
+
+
+.news-room{
+    height: 390px;
+    background-color: blue;
+}
+
+.loto{
+    height: 73px;
+    background-color: red;
+}
+
+.amminah-comercial{
+    width:  304px;
+}
